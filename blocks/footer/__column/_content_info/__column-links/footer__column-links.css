@@ -1,0 +1,8 @@
+@import url('__column-link/footer__column-link.css');
+.footer__column-links {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin-top: 0;
+    padding-left: 0;
+}

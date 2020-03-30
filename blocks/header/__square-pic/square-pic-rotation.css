@@ -1,0 +1,8 @@
+@keyframes square-pic-rotation {
+    from {
+        transform: rotate(-15deg)
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

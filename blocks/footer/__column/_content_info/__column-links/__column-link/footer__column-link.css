@@ -1,0 +1,15 @@
+.footer__column-link {
+    justify-content: space-between;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 16px;
+    margin-top: 0;
+    text-decoration: none;
+    color: white;
+}
+
+.footer__column-link:hover {
+    transition: .1s linear .05s;
+    opacity: 0.6;
+}
