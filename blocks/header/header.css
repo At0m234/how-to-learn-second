@@ -3,6 +3,7 @@
 @import url('__link/header__link.css');
 @import url('__main-illustration/header__main-illustration.css');
 @import url('__square-pic/header__square-pic.css');
+@import url('__square-pic/square-pic-rotation.css');
 
 .header {
   display: flex;
