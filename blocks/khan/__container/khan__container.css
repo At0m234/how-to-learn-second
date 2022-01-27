@@ -4,7 +4,8 @@
 @import url('__quote-author/khan__quote-author.css');
 @import url('__quote-author-subline/khan__quote-author-subline.css');
 @import url('__book-container/khan__book-container.css');
+
 .khan__container {
-    width: 80%;
-    margin: 105px auto 0 auto;
+  width: 80%;
+  margin: 105px auto 0 auto;
 }

@@ -2,9 +2,10 @@
 @import url('./__main-text/two-columns__main-text.css');
 @import url('./__paragraph/two-columns__paragraph.css');
 @import url('./__span-accent/two-columns__span-accent.css');
+
 .two-columns {
-    display: flex;
-    width: 80%;
-    margin-top: 100px;
-    justify-content: space-between;
+  display: flex;
+  width: 80%;
+  margin-top: 100px;
+  justify-content: space-between;
 }

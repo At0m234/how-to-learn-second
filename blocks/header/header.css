@@ -5,12 +5,12 @@
 @import url('__square-pic/header__square-pic.css');
 
 .header {
-    display: flex;
-    position: relative;
-    align-items: center;
-    background-color: #F2F2F2;
-    height: 100vh;
-    min-height: 600px;
-    max-height: 756px;
-    overflow: hidden;
+  display: flex;
+  position: relative;
+  align-items: center;
+  background-color: #F2F2F2;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  overflow: hidden;
 } 
