@@ -1,4 +1,4 @@
-@import url('__author/footer__author.css');
+@import url('./__author/footer__author.css');
 
 .footer__column_content_copyright {
   display: flex;

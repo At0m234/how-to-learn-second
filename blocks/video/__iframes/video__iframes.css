@@ -1,4 +1,4 @@
-@import url('__iframe/video__iframe.css');
+@import url('./__iframe/video__iframe.css');
 
 .video__iframes {
   display: flex;
